@@ -1,0 +1,47 @@
+Striver A2Z - Solve Problems on Arrays (Easy -> Medium -> Hard)
+
+Easy
+1) Largest element in an array
+2) Second largest element in an array
+3) Check if array is sorted
+4) Remove duplicates from sorted array
+5) Left rotate an array by one
+6) Left rotate an array by D places
+7) Move zeros to the end
+8) Linear search in an array
+9) Union of two sorted arrays
+10) Missing number in array [0..n]
+11) Max consecutive ones
+12) Number that appears once (every other appears twice)
+13) Find the frequency of each element (basic map)
+14) Longest subarray with sum K (positive numbers, sliding window)
+15) Two Sum (unsorted)
+
+Medium
+1) Sort an array of 0s, 1s and 2s (Dutch National Flag)
+2) Majority Element (n/2)
+3) Kadane's Algorithm (Maximum subarray sum)
+4) Stock Buy and Sell - Max profit
+5) Rearrange array elements by sign (alternating positives/negatives)
+6) Next permutation
+7) Leaders in an array
+8) Longest consecutive sequence
+9) Set matrix zeroes
+10) Rotate matrix by 90 degrees
+11) Spiral traversal of matrix
+12) Count subarrays with sum K (can include negatives)
+13) Subarray sum divisible by K
+14) Three Sum (find triplets with sum 0)
+15) Four Sum (find quadruplets with target)
+
+Hard
+1) Maximum product subarray
+2) Longest subarray with 0 sum
+3) Largest subarray with equal 0s and 1s
+4) Number of subarrays with XOR = K
+5) Merge overlapping intervals
+6) Insert interval
+7) Merge two sorted arrays in-place (Gap method)
+8) Count inversions in an array
+9) Reverse pairs (count pairs i<j with arr[i] > 2*arr[j])
+10) Median of two sorted arrays

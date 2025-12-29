@@ -1,0 +1,16 @@
+Medium Array Problems (Striver A2Z)
+1) Sort an array of 0s, 1s and 2s (Dutch National Flag)
+2) Majority Element (n/2)
+3) Kadane's Algorithm (Maximum subarray sum)
+4) Stock Buy and Sell - Max profit
+5) Rearrange array elements by sign (alternating positives/negatives)
+6) Next permutation
+7) Leaders in an array
+8) Longest consecutive sequence
+9) Set matrix zeroes
+10) Rotate matrix by 90 degrees
+11) Spiral traversal of matrix
+12) Count subarrays with sum K (can include negatives)
+13) Subarray sum divisible by K
+14) Three Sum (find triplets with sum 0)
+15) Four Sum (find quadruplets with target)

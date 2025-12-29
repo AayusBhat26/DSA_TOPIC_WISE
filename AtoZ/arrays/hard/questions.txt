@@ -1,0 +1,11 @@
+Hard Array Problems (Striver A2Z)
+1) Maximum product subarray
+2) Longest subarray with 0 sum
+3) Largest subarray with equal 0s and 1s
+4) Number of subarrays with XOR = K
+5) Merge overlapping intervals
+6) Insert interval
+7) Merge two sorted arrays in-place (Gap method)
+8) Count inversions in an array
+9) Reverse pairs (count pairs i<j with arr[i] > 2*arr[j])
+10) Median of two sorted arrays
